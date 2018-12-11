@@ -1,0 +1,97 @@
+{
+  "partnerA": [
+    {
+      "id": "1",
+      "carrier": "CA",
+      "market": "CN",
+      "depRegion": "PEK",
+      "arrRegion": "SIN",
+      "gdsType": "Amadeus",
+      "posArea":"CN",
+      "depAirports":["PEK","NAY"],
+      "arrAirports":["SHA","CHA"],
+      "rule": [
+        {
+          "passengerType": [
+            "AD"
+          ],
+          "cabin": [
+            "Y"
+          ],
+          "singleDiscount": 0.0111,
+          "roundDiscount": 0.0211
+        },
+        {
+          "id": "1",
+          "carrier": "CA",
+          "market": "CN",
+          "departureCity": " PEK ",
+          "arrivalCity": "SIN",
+          "gdsType": "Amadeus",
+          "depAirports":["nanyuan","guoji"],
+          "arrAirports":["hongqiao","beiyuan"],
+          "rule": [
+            {
+              "passengerType": [
+                "AD"
+              ],
+              "cabin": [
+                "Y"
+              ],
+              "singleDiscount": 0.0111,
+              "roundDiscount": 0.0211
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "partnerB": [
+    {
+      "id": "3",
+      "carrier": "CA",
+      "market": "CN",
+      "departureCity": " PEK ",
+      "arrivalCity": "SIN",
+      "gdsType": "Amadeus",
+      "posd":"CN",
+      "rule": [
+        {
+          "passengerType": [
+            "AD"
+          ],
+          "cabin": [
+            "Y"
+          ],
+          "singleDiscount": 0.0111,
+          "singleMarkUp": 4.1,
+          "roundDiscount": 0.0211,
+          "eeee": 1
+        },
+        {
+          "id": "4",
+          "carrier": "CA",
+          "market": "CN",
+          "departureCity": " PEK ",
+          "arrivalCity": "SIN",
+          "gdsType": "Amadeus",
+          "rule": [
+            {
+              "passengerType": [
+                "AD"
+              ],
+              "cabin": [
+                "Y"
+              ],
+              "singleDiscount": 0.0111,
+              "singleMarkUp": 4.1,
+              "roundDiscount": 0.0211,
+              "eeee": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,5 @@
+min_protovend_version: 3.1.4
+vendor:
+- branch: master
+  host: github.skyscannertools.net
+  repo: dps/quote-service

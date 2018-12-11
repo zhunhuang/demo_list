@@ -1,0 +1,5 @@
+min_protovend_version: 1.0.3
+vendor:
+- branch: master
+  host: github.skyscannertools.net
+  repo: mshell/kube-platform-checker

@@ -1,0 +1,7 @@
+{
+  "partnerIds":["a","b"],
+  "market":"CN",
+  "departureCity":"PEK",
+  "arrivalCity":"SIN",
+  "gdsType":"Amadeus"
+}
