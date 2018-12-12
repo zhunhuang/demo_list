@@ -39,7 +39,7 @@
 
 Annotation 架构图：
 
-[annotation架构图]('https://images0.cnblogs.com/blog/497634/201309/28123151-d471f82eb2bc4812b46cc5ff3e9e6b82.jpg','')
+![annotation架构图]('https://images0.cnblogs.com/blog/497634/201309/28123151-d471f82eb2bc4812b46cc5ff3e9e6b82.jpg','')
 
 
 
