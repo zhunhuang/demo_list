@@ -39,9 +39,11 @@
 
 Annotation 架构图：
 
-![annotation架构图]('https://images0.cnblogs.com/blog/497634/201309/28123151-d471f82eb2bc4812b46cc5ff3e9e6b82.jpg','annotation structure')
+![annotation架构图]('https://images0.cnblogs.com/blog/497634/201309/28123151-d471f82eb2bc4812b46cc5ff3e9e6b82.jpg', 'annotation structure')
 
-![annotation架构图]('https://camo.githubusercontent.com/660e543510891254fa0ca6138af3350458aa0582/687474703a2f2f647562626f2e6170616368652e6f72672f696d672f6172636869746563747572652e706e67','annotation structure')
+---
+
+![annotation架构图]('https://camo.githubusercontent.com/660e543510891254fa0ca6138af3350458aa0582/687474703a2f2f647562626f2e6170616368652e6f72672f696d672f6172636869746563747572652e706e67', 'annotation structure')
 
 
 
