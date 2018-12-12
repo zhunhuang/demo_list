@@ -13,7 +13,6 @@
         <module>dynameDB</module>
         <module>schackson</module>
         <module>braintree</module>
-        <module>test</module>
         <module>algorithms</module>
     </modules>
 
